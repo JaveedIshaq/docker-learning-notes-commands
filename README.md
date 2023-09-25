@@ -1,7 +1,7 @@
 # docker-learning-notes-commands
 Docker related learning notes and commands
 
-Certainly! Here's a list of some commonly used Docker commands along with brief explanations of what each command does:
+Here's a list of some commonly used Docker commands along with brief explanations of what each command does:
 
 1. **docker run**:
    - **Explanation**: This command is used to create and start a new container from a Docker image. You specify an image, and Docker creates an instance of it as a running container.
